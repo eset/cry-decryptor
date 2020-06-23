@@ -1,0 +1,12 @@
+= CryDecryptor
+
+This application decrypts files on Android devices compromised with the
+CryCryptor ransomware.
+
+You can find a pre-built Android application package in the
+https://github.com/eset/cry-decryptor/releases[release section].
+
+For a detailed analysis of the CryCryptor ransomware, see ESET researchers'
+article https://www.welivesecurity.com/2020/06/24/new-ransomware-uses-covid19-tracing-guise-target-canada-eset-decryptor/["New
+ransomware uses COVID-19 tracing guise to target Canada; ESET offers decryptor"] on
+https://www.welivesecurity.com[WeLiveSecurity].
